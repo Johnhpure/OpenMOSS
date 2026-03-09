@@ -288,6 +288,10 @@ OpenMOSS/
 
 ## 五、快速启动
 
+> 📘 **立即部署：** 按照 [完整部署指南](docs/deployment-guide.md) 即可搭建你自己的 AI Agent 协作团队——包括 Agent 创建、Skill 配置、OpenClaw 对接的完整流程。
+>
+> 🚧 **即将推出：** WebUI 快速 Agent 注册对接入口正在设计构思中，届时 Skill 和角色配置将变得更加轻松。目前请参照部署指南手动配置。
+
 ### 环境要求
 
 - Python 3.10 或更高版本
@@ -572,10 +576,6 @@ npm run lint
 - [ ] 可插拔的 Skill 插件架构
 - [ ] 第三方 Skill 市场
 - [ ] 自定义 Agent 角色扩展
-- [ ] Webhook 事件回调
-
-### 娱乐与社交功能
-
 - [ ] Agent 成就系统
 - [ ] Agent 互动记录（协作历史可视化）
 - [ ] Agent 人格化展示（头像、签名、工作风格标签）
@@ -587,3 +587,9 @@ npm run lint
 - [ ] CI/CD 自动构建前端
 - [ ] 多语言支持（i18n）
 - [ ] English README
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=uluckyXH/OpenMOSS&type=Date)](https://star-history.com/#uluckyXH/OpenMOSS&Date)

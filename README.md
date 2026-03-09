@@ -267,6 +267,10 @@ OpenMOSS/
 
 ## Quick Start
 
+> 📘 **Deploy now:** Follow the [Full Deployment Guide](docs/deployment-guide-en.md) to get OpenMOSS running with your own AI agent team — including Agent setup, Skill configuration, and OpenClaw integration.
+>
+> 🚧 **Coming soon:** Quick Agent onboarding via WebUI is currently being designed. For now, please follow the deployment guide for manual setup.
+
 ### Requirements
 
 - Python 3.10+
@@ -546,10 +550,6 @@ npm run lint
 - [ ] Pluggable Skill architecture
 - [ ] Third-party Skill marketplace
 - [ ] Custom agent role extensions
-- [ ] Webhook event callbacks
-
-### Social & Gamification
-
 - [ ] Agent achievement system
 - [ ] Agent interaction history (collaboration visualization)
 - [ ] Agent personas (avatars, signatures, work style tags)
